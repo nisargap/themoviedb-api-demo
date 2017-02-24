@@ -1,0 +1,5 @@
+*.pyc
+*.c
+Makefile
+env
+api_key.txt
